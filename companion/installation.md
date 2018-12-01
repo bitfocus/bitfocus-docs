@@ -1,7 +1,5 @@
-<!-- TITLE: Installation -->
-<!-- SUBTITLE: A quick summary of Installation -->
-
-# Companion Installation
+<!-- TITLE: Companion Installation -->
+<!-- SUBTITLE: Installation instructions for companion on different operating systems and architectures. -->
 ### Mac
 
 Download the [latest release](https://github.com/bitfocus/companion/releases) for mac, unzip, drag Companion.app into your Applications folder
