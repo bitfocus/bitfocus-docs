@@ -1,4 +1,7 @@
 <!-- TITLE: Companion -->
 <!-- SUBTITLE: Everything Under Control -->
+
 * [Installation](/companion/installation)
-* [Module Development](/companion/development/modules)
+* [Getting started](/companion/start)
+* [Text input with symbols](/companion/textinput)
+* [Module development](/companion/development/modules)
