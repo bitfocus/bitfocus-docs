@@ -1,4 +1,4 @@
 <!-- TITLE: Companion -->
-<!-- SUBTITLE: A quick summary of Companion -->
+<!-- SUBTITLE: Everything Under Control -->
 
-# Companion
+* [Installation](/companion/installation)
