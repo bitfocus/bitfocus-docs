@@ -1,8 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
-
-# Bitfocus Documentation
-
-## Companion
-
-Tester.
+<!-- TITLE: Bitfocus -->
+<!-- SUBTITLE: The documentation archive for all software provided by Bitfocus -->
+# Shortcuts
+* (Companion Documentation)[/companion]
