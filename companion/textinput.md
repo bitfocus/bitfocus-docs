@@ -1,5 +1,5 @@
 <!-- TITLE: Text Input -->
-<!-- SUBTITLE: How to format text input in companion, tips and tricks -->
+<!-- SUBTITLE: Tips and tricks about text formating in companion -->
 
 ## Line breaks
 Text on the Buttons is automatically wrapped. When you want to force a line break add '\n' in the text input line.
